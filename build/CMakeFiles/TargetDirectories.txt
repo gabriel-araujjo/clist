@@ -1,0 +1,15 @@
+/home/gabriel/Projects/clist/build/CMakeFiles/clist.dir
+/home/gabriel/Projects/clist/build/CMakeFiles/clist_test.dir
+/home/gabriel/Projects/clist/build/CMakeFiles/edit_cache.dir
+/home/gabriel/Projects/clist/build/CMakeFiles/rebuild_cache.dir
+/home/gabriel/Projects/clist/build/CMakeFiles/list_install_components.dir
+/home/gabriel/Projects/clist/build/CMakeFiles/install.dir
+/home/gabriel/Projects/clist/build/CMakeFiles/install/local.dir
+/home/gabriel/Projects/clist/build/CMakeFiles/install/strip.dir
+/home/gabriel/Projects/clist/build/_deps/unity-build/CMakeFiles/unity.dir
+/home/gabriel/Projects/clist/build/_deps/unity-build/CMakeFiles/edit_cache.dir
+/home/gabriel/Projects/clist/build/_deps/unity-build/CMakeFiles/rebuild_cache.dir
+/home/gabriel/Projects/clist/build/_deps/unity-build/CMakeFiles/list_install_components.dir
+/home/gabriel/Projects/clist/build/_deps/unity-build/CMakeFiles/install.dir
+/home/gabriel/Projects/clist/build/_deps/unity-build/CMakeFiles/install/local.dir
+/home/gabriel/Projects/clist/build/_deps/unity-build/CMakeFiles/install/strip.dir

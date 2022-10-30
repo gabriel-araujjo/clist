@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/gabriel/Projects/clist/build",
+  "command": "/usr/lib/ccache/bin/cc -I/home/gabriel/Projects/clist/build -g -std=c11 -o CMakeFiles/clist.dir/clist.c.o -c /home/gabriel/Projects/clist/clist.c",
+  "file": "/home/gabriel/Projects/clist/clist.c"
+},
+{
+  "directory": "/home/gabriel/Projects/clist/build",
+  "command": "/usr/lib/ccache/bin/cc -I/home/gabriel/Projects/clist/build -I/home/gabriel/Projects/clist/build/_deps/unity-src/src -I/home/gabriel/Projects/clist/build/_deps/unity-build -g -o CMakeFiles/clist_test.dir/clist_test.c.o -c /home/gabriel/Projects/clist/clist_test.c",
+  "file": "/home/gabriel/Projects/clist/clist_test.c"
+},
+{
+  "directory": "/home/gabriel/Projects/clist/build",
+  "command": "/usr/lib/ccache/bin/cc -I/home/gabriel/Projects/clist/build/_deps/unity-src/src -I/home/gabriel/Projects/clist/build/_deps/unity-build -g -Waddress -Waggregate-return -Wformat-nonliteral -Wformat-security -Wformat -Winit-self -Wmissing-declarations -Wmissing-include-dirs -Wno-multichar -Wno-parentheses -Wno-type-limits -Wno-unused-parameter -Wunreachable-code -Wwrite-strings -Wpointer-arith -Werror -Wall -std=c11 -o _deps/unity-build/CMakeFiles/unity.dir/src/unity.c.o -c /home/gabriel/Projects/clist/build/_deps/unity-src/src/unity.c",
+  "file": "/home/gabriel/Projects/clist/build/_deps/unity-src/src/unity.c"
+}
+]
